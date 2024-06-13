@@ -7,10 +7,10 @@
 * 👯 In my Intern at Sridhar Medi Systems I led the Frontend team to develop & improve medical sales.
 * 📜 My Certifications: Java Programming, Product Management, Data Structures.
 * 🏆 My Achievements:
-  - 🏅National Level Hackathon finalist at Hack in Hub '23 
-  - 🥇Winner at Sensibull 23 Business & Finance Event (₹20,000 prize) 
+  - 🏅National Level Hackathon finalist (Hack in Hub '23) 
+  - 🥇Winner at Sensibull'23 Business cum Finance Event (₹20,000 prize) 
   - 🏁Semi-finalist at Intel AI Hackathon
-  - 🏆Best Project Award at Chanel B-Tech
+  - 🏆Best Project Award by Chanel B-Tech
 
 [![](https://visitcount.itsvg.in/api?id=gururajm1&icon=0&color=0)](https://visitcount.itsvg.in)
 
