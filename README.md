@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi, I'm Gururaj 👋
 
 <!--
 **gururajm1/gururajm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
