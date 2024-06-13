@@ -5,7 +5,7 @@
 * 🎓 I’m currently pursuing B.Tech in CSBS at Sri Eshwar College of Engineering.
 * 💼 I’m a Full-Stack Developer specializing in MERN stack with over 6+ Project Experience.
 * 👯 In my Intern at Sridhar Medi Systems I led the Frontend team to develop & improve medical sales.
-* 📜 My Certifications: Java Programming, Product Management, AWS & DevOps, Data Structures.
+* 📜 My Certifications: Java Programming, Product Management, Data Structures.
 * 🏆 My Achievements:
   - 🏅National Level Hackathon finalist at Hack in Hub '23 
   - 🥇Winner at Sensibull 23 Business & Finance Event (₹20,000 prize) 
