@@ -8,7 +8,7 @@
 * 📜 My Certifications: Java Programming, Product Management, Data Structures.
 * 🏆 My Achievements:
   - 🏅National Level Hackathon finalist (Hack in Hub '23) 
-  - 🥇Winner at Sensibull'23 Business cum Finance Event (₹20,000 prize) 
+  - 🥇Winner at Sensibull'23 Business cum Finance Event
   - 🏁Semi-finalist at Intel AI Hackathon
   - 🏆Best Project Award by Chanel B-Tech
 
