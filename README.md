@@ -8,7 +8,7 @@
 * 📜 My Certifications: Java Programming, Frontend, Data Structures.
 * 🏆 My Achievements:
   - 🏅National Level Hackathon finalist (Hack in Hub '23) 
-  - 🥇Winner at Sensibull'23 Business cum Finance Event
+  - 🥇Winner at Sensibull'23 Event
   - 🏁Semi-finalist at Intel AI Hackathon
   - 🏆Best Project Award by Chanel B-Tech
 
