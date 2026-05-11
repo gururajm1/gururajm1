@@ -2,7 +2,7 @@
 
 <!--
 **gururajm1/gururajm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-* 🎓 I’m currently pursuing B.Tech in CSBS at Sri Eshwar College of Engineering.
+* 🎓 I’m currently working as a Software Developer at Adya.
 * 💼 I’m a Full-Stack Developer specializing in MERN stack with over 6+ Project Experience.
 * 👯 In my Intern at Sridhar Medi Systems I led the Frontend team to develop & improve medical sales.
 * 📜 My Certifications: Java Programming, Frontend, Data Structures.
